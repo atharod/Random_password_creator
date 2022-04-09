@@ -1,4 +1,4 @@
-# password_manager
+# Random_password_creator
 
 A little project to generate random password from https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html  
 3 level are accessible : easy, medium and hard. 
